@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Jokes App</string>
+    <string name="additional_text">Already have an account? Login</string>
+    <string name="additional_text2">New Here? Create an Account</string>
+</resources>

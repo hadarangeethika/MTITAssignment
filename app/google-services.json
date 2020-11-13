@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1078219355896",
+    "firebase_url": "https://mtitassignment-11c52.firebaseio.com",
+    "project_id": "mtitassignment-11c52",
+    "storage_bucket": "mtitassignment-11c52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078219355896:android:56bea3d42965b0676d6d0d",
+        "android_client_info": {
+          "package_name": "it18123982.mad.sliit.mtitassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078219355896-f8kvu49tgc80gb881i4o4ks6vht2h9kd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4kWEM3XSBi5yOfVYkqHYKnnd5KW43Z0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078219355896-f8kvu49tgc80gb881i4o4ks6vht2h9kd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
